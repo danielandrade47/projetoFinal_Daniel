@@ -8,4 +8,6 @@ Este documento tem como objetivo apresentar e descrever o Projeto Final, fornece
 
 [<h2>Modelo de Arquitetura</h2>](https://github.com/danielandrade47/projetoFinal_Daniel/blob/main/modelo-de-arquitetura.md)
 
+[<h2>Personas</h2>](https://github.com/danielandrade47/projetoFinal_Daniel/blob/main/personas.md)
+
 [<h2>Protótipo de Interface</h2>](https://github.com/danielandrade47/projetoFinal_Daniel/blob/main/prototipo-interface.md)
