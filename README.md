@@ -2,4 +2,10 @@
 
 Este documento tem como objetivo apresentar e descrever o Projeto Final, fornecendo informações e artefatos sobre a concepção do projeto, o planejamento, o desenvolvimento, testes/validação e as conclusões finais.
 
-<h2>Canvas MVP</h2>
+[<h2>Canvas MVP</h2>](https://github.com/danielandrade47/projetoFinal_Daniel/blob/main/canvas-mvp.md)
+
+[<h2>JSON Schemas</h2>](https://github.com/danielandrade47/projetoFinal_Daniel/blob/main/json-schemas.md)
+
+[<h2>Modelo de Arquitetura</h2>](https://github.com/danielandrade47/projetoFinal_Daniel/blob/main/modelo-de-arquitetura.md)
+
+[<h2>Protótipo de Interface</h2>](https://github.com/danielandrade47/projetoFinal_Daniel/blob/main/prototipo-interface.md)
