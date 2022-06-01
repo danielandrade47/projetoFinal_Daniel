@@ -1,6 +1,6 @@
 <h1>Personas</h1>
 
-Aqui, temos a representação das personas criadas durante a concepção do projeto. Uma Persona nada mais é do que uma representação fictícia de um cliente ideal para um negócio. A persona é baseada em dados reais sobre os comportamentos, características e hábitos dos usuários. Representações de personas são bem comuns em utilização para identificação de um determinado público alvo.
+Aqui, temos a representação das personas criadas durante a concepção do projeto. Uma Persona nada mais é do que uma representação fictícia de um cliente ideal para um negócio. A persona é baseada em dados reais sobre os comportamentos, características e hábitos dos clientes. Representações de personas são bem comuns em utilização para identificação de um determinado público alvo.
 
 <h2>Marcelo - Gerente de Loja de Materiais de Construção</h2>
 
