@@ -11,7 +11,7 @@ Abaixo, apresentam-se os Schemas estruturados para o desenvolvimento do projeto.
         "email": "string",
         "phone": "string",
         "address": {
-            "country": "string,
+            "state": "string,
             "city": "string",
             "street": "string",
             "number": "string",
