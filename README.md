@@ -4,6 +4,8 @@ Este documento tem como objetivo apresentar e descrever o Projeto Final, fornece
 
 [<h2>Canvas MVP</h2>](https://github.com/danielandrade47/projetoFinal_Daniel/blob/main/canvas-mvp.md)
 
+[<h2>É - Não é - Faz - Não Faz</h2>](https://github.com/danielandrade47/projetoFinal_Daniel/blob/main/canvas-mvp.md)
+
 [<h2>JSON Schemas</h2>](https://github.com/danielandrade47/projetoFinal_Daniel/blob/main/json-schemas.md)
 
 [<h2>Modelo de Arquitetura</h2>](https://github.com/danielandrade47/projetoFinal_Daniel/blob/main/modelo-de-arquitetura.md)
